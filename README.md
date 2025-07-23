@@ -1,4 +1,4 @@
-# 🧠 Model Explainability (TML Assignment 4)
+# Model Explainability (TML Assignment 4)
 
 This repository contains a comprehensive analysis of deep learning model interpretability using multiple techniques including **CLIP-dissect**, **Grad-CAM**, **ScoreCAM**, **AblationCAM**, and **LIME**. It showcases results for image classification models trained on different datasets and evaluated on diverse image samples.
 
@@ -52,7 +52,7 @@ This repository contains a comprehensive analysis of deep learning model interpr
 
 ---
 
-## 📝 Report
+## Report
 
 For a complete description of experiments, methodologies, and comparative findings, refer to [`Report A4 TML.pdf`](./Report%20A4%20TML.pdf).
 
